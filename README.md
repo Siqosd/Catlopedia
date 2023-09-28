@@ -48,6 +48,7 @@ Cats come in a delightful array of hair lengths, from the luxurious long fur of 
 
 - <a href="https://en.wikipedia.org/wiki/Siamese_cat">Siamese Cats</a> are renowned for their striking appearance, characterized by their sleek, slender bodies, striking blue almond-shaped eyes, and distinctive color points on their ears, face, paws, and tail. With their chatty and sociable personalities, Siamese cats are known for their vocal nature and deep attachment to their human families. Their affectionate and active demeanor makes them wonderful companions, and their striking looks have made them a beloved and iconic breed in the world of feline companionship.
 - <a href="https://en.wikipedia.org/wiki/American_Shorthair">American Shorthairs</a> are the quintessential domestic cats, known for their adaptable, easygoing, and friendly personalities. These cats have short, low-maintenance coats in various colors and patterns, making them a perfect choice for households seeking a loving and undemanding feline friend. American Shorthairs are known for their good health and longevity, and their relaxed nature makes them great family pets. Their well-rounded, amiable disposition has earned them the nickname "America's breed" and made them a cherished addition to homes across the United States and beyond.
+  <img src="Cat Breeds/american shorthair.jpg">
 
 <h3 id="hairless">Hairless</h3>
 
