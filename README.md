@@ -19,14 +19,12 @@ The Catlopedia is your ultimate guide to the captivating world of feline compani
      <li>
       <a href="#hairless" class="sub-heading">Hairless</a>
      </li>
-   </li>
     </ul>
  </li>
   </ul>
  <li>
   <a href="#why-a-cat" class="heading">Why a Cat?</a>
  </li>
-</ul>
 
 <h1 id="cat-breeds">Cat Breeds</h1>
 
