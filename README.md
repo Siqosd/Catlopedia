@@ -54,6 +54,7 @@ Cats come in a delightful array of hair lengths, from the luxurious long fur of 
 <h3 id="hairless">Hairless</h3>
 
 - The <a href="https://en.wikipedia.org/wiki/Sphynx_cat">Sphynx Cat</a> is an utterly unique and remarkable breed recognized for its striking hairlessness. With its wrinkled skin and large ears, the Sphynx has an extraordinary appearance that's truly captivating. Contrary to their lack of fur, these cats are known for their lively and affectionate personalities, often craving human attention and warmth. Sphynx cats require some special care to protect their sensitive skin, including regular bathing and skin protection from the sun, but their energetic, outgoing, and playful nature more than makes up for their distinctive appearance, endearing them to many cat lovers.
+  <img src="Cat Breeds/sphynx.jpg">
 - The <a href="https://en.wikipedia.org/wiki/Peterbald">Peterbald</a> is an enchanting breed characterized by its striking, hairless appearance or a short coat. With their elegant and graceful demeanor, Peterbalds are known for their intelligence, agility, and friendliness. These cats enjoy human companionship and are sociable, often forming strong bonds with their families. The breed originated in Russia and is appreciated for its distinctive and captivating look, as well as its playful and affectionate nature, making it a cherished choice for those seeking an extraordinary feline companion.
 
 <h1 id="why-a-cat">Why a Cat?</h1>
